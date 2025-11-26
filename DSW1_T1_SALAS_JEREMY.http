@@ -1,0 +1,6 @@
+@DSW1_T1_SALAS_JEREMY_HostAddress = http://localhost:5285
+
+GET {{DSW1_T1_SALAS_JEREMY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
