@@ -136,3 +136,4 @@ C:\Users\jerem\DSW1_T1_SALAS_JEREMY\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.W
 C:\Users\jerem\DSW1_T1_SALAS_JEREMY\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\jerem\DSW1_T1_SALAS_JEREMY\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\jerem\DSW1_T1_SALAS_JEREMY\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jerem\DSW1_T1_SALAS_JEREMY\obj\Debug\net8.0\DSW1_T1_SALAS_JEREMY.sourcelink.json
